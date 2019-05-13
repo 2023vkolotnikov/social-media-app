@@ -1,0 +1,27 @@
+#header{
+  text-transform: uppercase;
+  font-weight: 700;
+  font-family: helvetica;
+  text-align: center;
+  position: relative;
+}
+
+#project{
+  width: 100%
+}
+
+#submitComment {
+  position: relative;
+  bottom: 10px;
+}
+
+#title {
+  text-align: center;
+}
+
+#email, #password, #age, #quote, #education {
+  margin-top: 5px;
+}
+#signUp {
+  margin-top: 5px;
+}

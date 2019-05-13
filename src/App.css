@@ -1,0 +1,44 @@
+.logo {
+  border-radius: 20px;
+}
+
+.App {
+  text-align: center;
+}
+.navbar {
+  background-color: rgb(74, 104, 173);
+  text-indent: none;
+}
+.nav-item  {
+  border: none;
+  box-shadow: none;
+  text-indent: none;
+  color: white;
+
+}
+.list-group-item {
+  border: 0.5px solid black;
+  box-shadow: none;
+  margin:0px;
+  padding: none;
+}
+.navbar-brand, .nav-link {
+  color: white
+}
+.card {
+  width: 18rem;
+  margin-top: 10px;
+}
+.input-group{
+  margin-top: 10px;
+}
+
+li {
+  list-style: none;
+  text-decoration: none;
+  text-indent: 5px;
+  border: 1px solid black;
+  margin-top: 5px;
+  box-shadow: 2px 2px grey;
+  padding: 10px
+}
